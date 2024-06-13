@@ -1,4 +1,4 @@
-# Beautiful Calculator
+# Minimalistic Calculator
 
 A beautifully designed and functional calculator built using HTML, CSS, and JavaScript. This calculator supports both mouse and keyboard interactions, making it easy to use for quick calculations.
 
