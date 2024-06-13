@@ -71,18 +71,13 @@ The JavaScript file (`script.js`) handles the functionality of the calculator, i
 - **resetCalculator()**: Resets the calculator to its initial state.
 - **backspace()**: Removes the last digit from the display value.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
 ## Contributing
 
 Contributions are welcome! If you have suggestions or improvements, please feel free to open an issue or submit a pull request.
 
 ## Acknowledgements
 
-This project was inspired by the need for a simple yet functional calculator with a beautiful design. Special thanks to the developers and designers who contribute to open-source projects and make such projects possible.
+This project was inspired by the need for a simple yet functional calculator with a beautiful design. 
 
 ---
 
-**Note:** Replace the placeholder URL in the "Live Demo" section with the actual URL where your calculator is hosted, if applicable.
