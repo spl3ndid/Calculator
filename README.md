@@ -9,9 +9,9 @@ A beautifully designed and functional calculator built using HTML, CSS, and Java
 - Clean and modern design with smooth animations on button hover.
 - Responsive layout that works well on both desktop and mobile devices.
 
-## Live Demo
+## Demo
 
-You can view and interact with the live demo of this calculator [here](#).
+![Calculator Screenshot](https://github.com/spl3ndid/Calculator/blob/main/screenshot.png)
 
 ## Installation
 
