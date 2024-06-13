@@ -97,7 +97,6 @@ keys.addEventListener('click', event => {
     updateDisplay();
 });
 
-// Add keyboard support
 document.addEventListener('keydown', event => {
     const key = event.key;
     if (key >= 0 && key <= 9) {
